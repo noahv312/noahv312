@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Noah!
+Computing Science Undergraduate at Simon Fraser University
 
 <!--
 **noahv312/noahv312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
